@@ -24,7 +24,27 @@
 
 [https://www.bcn3d.com/bcn3d-moveo-the-future-of-learning-robotic-arm/]
 
+github BCN3D/BCN3D-Moveo
+[https://github.com/BCN3D/BCN3D-Moveo]
+
+Moveo_ros
+[https://github.com/jesseweisberg/moveo_ros]
+
+
 ---
 
+ロボットアームで血液培養ボトルからサブカルチャーへ！
 
+---
+課題
+
+- 小さなものが掴めない
+- 衝突する
+- カメラ見にくい
+- 腕が２本いる
+- 操作が難しい
+- 電源は誰が入れる？
+- VPNが必要
+- 大きいすぎる
+- 重い
 ---
