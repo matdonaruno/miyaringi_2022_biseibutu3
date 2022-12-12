@@ -18,3 +18,13 @@
 - 市販の安いロボットアームの動きはしっかり静止せずグラグラして使いにくそう！
 <img src = https://images-fe.ssl-images-amazon.com/images/I/51iYXsvX9FL.__AC_SX300_SY300_QL70_ML2_.jpg >
 [格安ロボットアーム](https://youtu.be/u8peO715Y5o)
+
+---
+選択したのは BCN3D Moveo !
+
+[https://www.bcn3d.com/bcn3d-moveo-the-future-of-learning-robotic-arm/]
+
+---
+
+
+---
