@@ -20,19 +20,18 @@
 [格安ロボットアーム](https://youtu.be/u8peO715Y5o)
 
 ---
-選択したのは BCN3D Moveo !
 
-[https://www.bcn3d.com/bcn3d-moveo-the-future-of-learning-robotic-arm/]
+選択したのは [BCN3D Moveo !](https://www.bcn3d.com/bcn3d-moveo-the-future-of-learning-robotic-arm/)
 
-github BCN3D/BCN3D-Moveo
-[https://github.com/BCN3D/BCN3D-Moveo]
+[github BCN3D/BCN3D-Moveo](https://github.com/BCN3D/BCN3D-Moveo)
 
-Moveo_ros
-[https://github.com/jesseweisberg/moveo_ros]
+[Moveo_ros](https://github.com/jesseweisberg/moveo_ros)
 
 ---
 
 ![moveo_github 001](https://user-images.githubusercontent.com/18117653/207011195-6c1ab736-1143-422f-b6d4-87f2bfe884a1.jpeg)
+
+[シングルボードコンピュータ](https://www.raspberrypi.com/products/)
 
 ---
 
